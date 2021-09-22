@@ -1,0 +1,50 @@
+[
+    {
+        "id": "13",
+        "name": "qamar",
+        "age": "29",
+        "email": "siraj@mail.com",
+        "country": "India",
+        "gender": "Male"
+    },
+    {
+        "id": "23",
+        "name": "huzaifa",
+        "age": "29",
+        "email": "hanif@mail.com",
+        "country": "Pakistan",
+        "gender": "Male"
+    },
+    {
+        "id": "25",
+        "name": "imran",
+        "age": "29",
+        "email": "imran@mail.com",
+        "country": "Pakistan",
+        "gender": "Male"
+    },
+    {
+        "id": "28",
+        "name": "musharaf",
+        "age": "25",
+        "email": "ashraf@mail.com",
+        "country": "Pakistan",
+        "gender": "Male"
+    },
+    {
+        "id": "29",
+        "name": "yasir",
+        "age": "20",
+        "email": "yasir@mail.com",
+        "country": "Pakistan",
+        "gender": "Male"
+    },
+    {
+        "id": "30",
+        "name": "shehryar",
+        "age": "28",
+        "email": "shehryar@mail.com",
+        "country": "Pakistan",
+        "gender": "Male"
+    }
+]
